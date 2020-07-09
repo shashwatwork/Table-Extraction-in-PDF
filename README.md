@@ -13,5 +13,6 @@ Segmenting table from PDF Document using Unet.Labels are generated using [lablem
 In processed_data, go to:
 
 `train.py`
- Run it using cmd 'python3 train.py
+
+<b> Run it using cmd 'python3 train.py' </b>
 
